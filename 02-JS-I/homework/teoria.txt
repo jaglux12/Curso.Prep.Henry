@@ -1,0 +1,15 @@
+1 - las variables son cajas de cartón donde vos podes guardar tus  juguetes. Imagina que tienes
+una cajita para guardar tus autitos, otra para los muñecos y así. Las variables son lo mismo solo que
+en las computadoras.
+
+2 - cuando vos pones tus jueguetes en algunas cajas, podes organizarlas segun su contenido.
+si en una queres almacenar tus películas y en otras tus fotos, podes hacerlo. entonces,
+el tipo de dato string es un tipo de caja especial que te permite guardar textos
+
+3 - las funciones te permiten hacer más simple tu código y te ayuda a reducir tu trabajo.
+
+4 - cuando tomas desiciones en tu vida, tenés diferentes opciones por las cuales tomar.
+por Ejemplo, si te gustan las pizzas tenes que ir al equipo rojo, de lo contrario vas a el azul.
+
+5 - son un tipo de caja que te permite almacenar valores entre si o no , en este caso
+como los lenguajes de programación se encuentran en inglés los valores son true o false 
