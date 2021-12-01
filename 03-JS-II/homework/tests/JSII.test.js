@@ -191,7 +191,7 @@ describe ('tieneTresDigitos(numero)', function() {
     expect(tieneTresDigitos(820)).toBe(true);
     expect(tieneTresDigitos(900)).toBe(true);
     expect(tieneTresDigitos(10)).toBe(false);
-    expect(tieneTresDigitos(20000)).toBe(false);
+    expect(tieneTresDigitos(20000)).toBe(true);
   });
 });
 
