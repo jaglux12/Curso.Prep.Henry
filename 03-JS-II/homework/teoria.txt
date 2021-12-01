@@ -1,0 +1,6 @@
+1 - esta palabra llamada for nos permite crear un bucle es decir un bloque de código
+que nos permite repertir todas las sentencias que estén dentro de las llaves
+
+2 - esos signos nos permiten comparar valores para hacer una condición,
+el primer signo nos ayuda a concatenar condiciones, el segundo a crear más condiciones
+y el otro a negar condiciones
