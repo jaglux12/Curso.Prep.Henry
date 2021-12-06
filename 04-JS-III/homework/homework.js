@@ -290,8 +290,6 @@ function continueStatement(numero) {
     aux.push(res)
   }
   return aux
-
-
 }
 
 
