@@ -1,0 +1,77 @@
+body{
+	background: black
+}
+
+#titulo{
+	background-image: linear-gradient(to left, purple, blue);
+	width: 800px;
+	margin: 0 auto;
+	text-align: right;
+	font-family: Arial;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+	padding: 10px 40px 10px 0px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+
+.container {
+	position: relative;
+	width: 800px;
+	margin: 0  auto;
+}
+
+nav{
+	position: absolute;
+	left: 0px;
+	height: 100%;
+	width: 300px;
+	background-image: linear-gradient(#343335, black);
+	padding: 10px 0px 0px 0px;
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+nav #lista h3{
+	list-style: none;
+	font-family: Arial;
+	color: white;
+}
+
+nav #lista {
+	list-style: none;
+	font-family: Arial;
+	color: gray;
+}
+nav #lista li {
+	margin: 0px 0px 0px 0px
+}
+
+section{
+	margin: 0px 0px 0px 300px;
+	padding: 10px 0px 0px 40px;
+}
+
+section h1 {
+	color: white;
+	font-family: sans-serif;
+}
+section p {
+	color: gray;
+	font-family: Arial;
+	font-size: 12;
+}
+
+section p label {
+	color: white;
+	font-style: italic;
+}
+
+
+#perfil {
+	float: center;
+	width: 75%;
+	height: 220px;
+	margin: 20px 0px 0px 30px;
+}
